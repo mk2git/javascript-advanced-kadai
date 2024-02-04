@@ -1,0 +1,35 @@
+body{
+  font-size: 6em;
+  text-align: center;
+}
+
+.count, .scoreDisplay{
+  margin: 0;
+  font-weight: bold;
+  color: #888;
+}
+.wrap{
+  margin-top: 20px;
+  padding: 80px 40px;
+  background-color: #666;
+  color: #fff;
+  font-weight: bold;
+}
+.typed{
+  color: lightgreen;
+}
+.mistyped{
+  background-color: red;
+}
+.score-text{
+  color: #888;
+  padding-right: 20px;
+  font-size: 50px;
+}
+.scoreDisplay{
+  padding-right: 200px;
+}
+.score{
+  display: flex;
+  justify-content: center;
+}
